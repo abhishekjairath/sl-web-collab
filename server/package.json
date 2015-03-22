@@ -1,0 +1,9 @@
+{
+  "name": "web-collab",
+  "version": "0.1.0",
+  "description" : "Web Collaboration server for Sugar Labs",
+  "dependencies": {
+    "socket.io": "1.3.5",
+    "http": "0.0.x"
+  }
+}
