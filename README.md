@@ -18,7 +18,7 @@ Just open the **webCollab.activity/index.html** in a modern web browser
 
  Copy **webCollab.activity** to `sugar-build/activities` and run the activity from within the sugar-build instance. 
 
- ### To Do
+### To Do
  * Expanding **collab.js** to cater deifferent need of collaboration 
  * Develop a **neighbourhood** view on the lines of sugar python
  * Providing features like inviting and notification to users as part of neighbourhood
